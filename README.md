@@ -6,7 +6,7 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 
-<p align="center"> I am pursuing my BTech degree in Computer Science Stream from College of Engineering Chengannur, Kerala.
+<p align="center"> I am pursuing my BTech degree in Computer Science Stream from College of Engineering Chengannur, Kerala. <br />
 Familiar with: Python, HTML, CSS, JS, C++, C, GIT , GITHUB, VSCODE
 </p> 
 
