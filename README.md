@@ -19,7 +19,7 @@ Familiar with: Python, HTML, CSS, JS, C++, C, GIT , GITHUB, VSCODE
 
 <h2>Connect Me In</h2>
 
-<a href="https://www.instagram.com/sarath__kumar__s/" target="black" alt=Ig url> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' height="30" width="40" /> </a><a href="https://www.linkedin.com/in/sarath-kumar-s-630a2b183/" target="black" alt=Linkedin > <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height="30" width="40" /> </a>
+<a href="https://www.instagram.com/sarath__kumar__s/" target="black" alt=Ig url> <img src= 'https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg' height="40" width="40" /> </a><a href="https://www.linkedin.com/in/sarath-kumar-s-630a2b183/" target="black" alt=Linkedin > <img src="https://img.icons8.com/color/48/000000/linkedin.png" height="45" width="47" /> </a>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Sarath-Kumar-S" alt="Sarath-Kumar-S"> </p>
 
