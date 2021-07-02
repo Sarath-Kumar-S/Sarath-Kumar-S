@@ -26,10 +26,10 @@
 <h2>Connect Me In</h2>
 
 <a href="https://www.linkedin.com/in/sarath-kumar-s-630a2b183/" target="_blank"><img alt="LinkedIn"
-                src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+                src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="36" height = "36" /></a> &nbsp;
         <a href="mailto:sarathkumar1201@gmail.com" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-
+                src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" width="36" height="36"/></a> &nbsp;
+ <a href="https://www.instagram.com/sarath__kumar__s/" target="_blank"><img alt="Instagram"  src="https://facebookbrand.com/wp-content/uploads/2021/03/Instagram_AppIcon_Aug2017.png?w=300&h=300" width="36" height="36"/></a>
    <br />
   <div>
             <p align="center">
@@ -40,7 +40,7 @@
             </p>  
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarath-kumar-s"/>
+    <img alt=Sarath's Github Stats" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sarath-kumar-s&layout=compact&theme=radical" alt="sarath-kumar-s" width="100%">
   </a>
 </p>
     </div>
