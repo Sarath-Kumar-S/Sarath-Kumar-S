@@ -28,7 +28,7 @@
 <a href="mailto:sarathkumar1201@gmail.com" target="_blank"><img alt="Gmail" src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" width="25" height="25"/></a> &nbsp; &nbsp;
 <a href="https://www.instagram.com/sarath__kumar__s/" target="_blank"><img alt="Instagram"  src="https://facebookbrand.com/wp-content/uploads/2021/03/Instagram_AppIcon_Aug2017.png?w=300&h=300" width="25" height="25"/></a> &nbsp; &nbsp;
 <a href="https://twitter.com/Sarath120101" target="_blank"><img alt="Twitter"  src="https://i.pinimg.com/564x/d5/5d/10/d55d108048e878155717bdd625de6217.jpg" width="25" height="25"/></a> &nbsp; &nbsp;
-<a href="https://www.hackerrank.com/sarathkumar1201" target="_blank"><img alt="HackerRank" src="https://lh3.googleusercontent.com/proxy/gcXuPDsOMqXc54vL6Lmu3VVeuRhxjO0VvgEvhsLMsmltAZcBvDJKltGwZ8rSvazNq2BKGTexax5YxSwItl165QqjBAggLDoCkF9KYEI" width="25" height="25"/></a>
+<a href="https://www.hackerrank.com/sarathkumar1201" target="_blank"><img alt="HackerRank" src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s1600/logo%2Bhackerrank%2Bicon.png" width="25" height="25"/></a>
  
 <br/>
  
