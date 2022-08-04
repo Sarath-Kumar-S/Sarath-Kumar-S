@@ -5,7 +5,7 @@
 <a href="url"><img src="https://coderslink.com/wp-content/uploads/2019/11/frontend_image-scaled.png" width="50%" /></a>
 </p>
 
-<p align="center"> I am pursuing my B.Tech degree in Computer Science Stream from College of Engineering Chengannur, Kerala. <br />
+<p align="center"> Completed my B.Tech degree in Computer Science Stream from College of Engineering Chengannur, Kerala. <br />
   <b>Familiar with:</b> Python, HTML, CSS, JS, C++, C, GIT , GitHub, VSCode, Sublime Text 3, CodePen
 </p> 
 
